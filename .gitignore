@@ -1,0 +1,26 @@
+# Python runtime and generated sample databases
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.db
+*.db-journal
+*.sqlite*
+
+# Android build output and signing keys
+android/build/
+.gradle/
+local.properties
+*.jks
+*.keystore
+*.idsig
+
+# Local settings and credentials
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+~$*
