@@ -1,9 +1,6 @@
 * text=auto
+*.sql text eol=lf linguist-language=SQL linguist-detectable=true
 *.py text eol=lf
-*.js text eol=lf
-*.css text eol=lf
-*.html text eol=lf
 *.md text eol=lf
+*.db binary
 *.docx binary
-*.apk binary
-*.png binary
